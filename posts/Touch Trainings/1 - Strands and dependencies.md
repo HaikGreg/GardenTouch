@@ -1,0 +1,3 @@
+With the goal of learning a three person move you can break down the final move in (1) steps that are necessary to be performed, (2) understanding that needs to be established and (2) coordination between players that needs to be trained.
+
+As most moves are more elaborate versions of a simpler move a fourth strand can be tought of where in order to understand and successfully execute a more complex move, learning the steps leading up it, not in a game, but in the evolution in the move might be beneficial.

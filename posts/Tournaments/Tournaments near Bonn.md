@@ -1,3 +1,7 @@
-[[Bembel Cup]]
-[[Cologne Cup]]
-[[Pudelmützen Cup]]
+In Frankfurt:
+- [[Bembel Cup]]
+
+In Cologne:
+- [[Cologne Cup]]
+- [[Pudelmützen Cup]]
+

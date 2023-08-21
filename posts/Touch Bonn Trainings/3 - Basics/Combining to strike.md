@@ -1,0 +1,11 @@
+In the following gif you will see a lazy switch lead to a pass to quickie-inside, which turns out to be a backdoor with the initiating and finishing player being "back-to-front"-hat. 
+
+![MensAustraliaCombination.gif](.attachments.1476262/MensAustraliaCombination.gif)
+
+Source: <https://giphy.com/gifs/touchfootballaustralia-touch-football-footy-S5lwB0HRy9miRHXgrW>
+
+Only the last move, the backdoor, is a three-player move with all preceding moves being or at least seeming two-player moves.
+
+Judging by the signage on the field the three Australian players are, from our perspective, Left Middle, Right Middle and Right Link. The defenders in view are (9) Right Middle and (2) Right Link. IN the beginning of the gif Defender 2 is out of position and trying to get back in front of "hat-forward". The hand of the Right Wing Defender can be seen briefly and thus the attacking wing should be open. Attacker "hat-backwards" is actively trying gesture the long pass but Defender 2 is not interested. The pass isn't on or maybe not favorable so "hat-backwards" initiates a lazy switch with the other middle to then immediately stop but making it seem like he is somewhat iritated.
+
+At this point everybody is seemingly in position. We assume Wing attacker and defender are paired up. Defender 2 is in front of "hat-forward" and 9 is in front of no hat. The only person not "in position" is "hat-backwards" who is right between the defending middles. The plan is to score on the outside of 2. The pass to he Right Link brings the pressure on 2. The step inside and quickie inside even make he twist and realign his hips. This is the point where he is lost. In order to get the attacking player, the runner on the backdoor from scoring on the outside he has to overcommit. "Hat-backwards steps inside to score just before 9 gets there to help. The Option 2 of the backdoor is on as the Left Middle defender is letting the gap get too big but since we don't see the "no-hat" and "hat-forward" we don't know if they didn't split far. In the end getting 2 out of position is good enough. but not necessary.

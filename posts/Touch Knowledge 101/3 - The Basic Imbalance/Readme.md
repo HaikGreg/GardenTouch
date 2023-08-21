@@ -1,0 +1,3 @@
+To win in a game of touch, one needs to outscore the opposing team. As you will come to know it is much easier to score than to prevent a score. Thus sometimes prevented scores are celebrated the loudest. The game, through its governing rules and the basics of game play is heavily slanted in favor of the team with the ball. For this reason the team with the ball only gets 6 touches to progress and then the imbalance is reversed the other way. will be pointed out in the following the game is
+
+## The Touch
