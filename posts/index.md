@@ -3,7 +3,7 @@ Touch Rugby is meant to be a dynamic and inclusive game for yound and old. Based
 
 We are the Rhineland Lynx and you can find us on Instagram and Mastodon or here
 
-In the Following you will find advice about Explanation for the Rules, Instruction for Basics, Strategy and Tactics, Formation
+In the Following you will find advice about (Explanation for the Rules)[[Rules]], Instruction for Basics, Strategy and Tactics, Formation
 
 ## Getting started
 ### Run on your local machine
