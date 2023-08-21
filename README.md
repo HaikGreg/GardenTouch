@@ -1,4 +1,4 @@
-## What is MindStone?
+## What is Touch?
 MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
 
 Here how it look like once published, checkout [demo version](https://mindstone.tuancao.me/) here:
