@@ -1,20 +1,9 @@
 ## What is Touch Rugby
-MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
+Touch Rugby is meant to be a dynamic and inclusive game for yound and old. Based on agilty, dexterity and speed.
 
-Here how it look like once published:
+We are the Rhineland Lynx and you can find us on Instagram and Mastodon or here
 
-![](/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
-
-This website include a published version of default Obsidian Help vault, [[Start here]]
-
-**MindStone features:**
-
--  ✅ **Drop-in** support for (default) **Obsidian Vault** 
--  ✅ `[[Wiki Link]]` built-in support
--  ✅ **Folder-base** navigation side bar
--  ✅ Backlink support out of the box
--  ✅ Interactive Graph view 
--  ✅ **Easy to deploy** to Netlify, Vercel...
+In the Following you will find advice about Explanation for the Rules, Instruction for Basics, Strategy and Tactics, Formation
 
 ## Getting started
 ### Run on your local machine
