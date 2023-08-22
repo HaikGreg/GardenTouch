@@ -3,9 +3,9 @@ Touch Rugby is meant to be a dynamic and inclusive game for yound and old. Based
 
 We are the Rhineland Lynx and you can find us on Instagram and Mastodon or here
 
-In the Following you will find [[1.0 - Index|Explanations for the Rules]], [[posts/3 - The Basic Imbalance/Readme]], [[posts/4 -  Defensive Policy and Variations/Readme|Defensive Policy and Variations]], [[posts/5 - Attack Moves, Maneuvers/Readme|Attack  Moves and Manouvers]], as well as some [[posts/6 - Advanced Tactics/Readme|Advanced Tactics]].
+In the Following you will find [[1.0 - Index|Explanations for the Rules]], [[2.0 - Index]], [[3.0 - Index|Defensive Policy and Variations]], [[4.0 - Index|Attack  Moves and Manouvers]], as well as some [[posts/5 - Advanced Tactics/Readme|Advanced Tactics]].
 
-Finally, we will share a [[posts/7 - Fat Man's Touch/Readme|playbook]] for the more sedentary amongst us. 
+Finally, we will share a [[posts/6 - Fat Man's Touch/Readme|playbook]] for the more sedentary amongst us. 
 
 ## Getting started
 

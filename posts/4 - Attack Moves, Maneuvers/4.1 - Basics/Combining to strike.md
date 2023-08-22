@@ -1,6 +1,6 @@
 In the following gif you will see a lazy switch lead to a pass to quickie-inside, which turns out to be a backdoor with the initiating and finishing player being "back-to-front"-hat. 
 
-![MensAustraliaCombination.gif](.attachments.1476262/MensAustraliaCombination.gif) 
+
 
 Source: <https://giphy.com/gifs/touchfootballaustralia-touch-football-footy-S5lwB0HRy9miRHXgrW>
 
